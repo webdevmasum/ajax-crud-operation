@@ -1,0 +1,34 @@
+.container {
+  width: 700px;
+  height: 500px;
+  box-shadow: 5px 5px 15px grey;
+  background: linear-gradient(to top right, #33ccff 0%, #cc99ff 100%);
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.container2 {
+  width: 80%;
+  /* height: 1500px; */
+  box-shadow: 5px 5px 15px grey;
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+  margin: 0 auto;
+  margin-top: 20px;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0px;
+  color: #092385;
+}
+.form-controll {
+  width: 50%;
+  height: 220px;
+  margin: 0 auto;
+}
+.form-group label {
+  color: rgb(11, 4, 112);
+  font-size: 18px;
+  font-weight: bold;
+}
